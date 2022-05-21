@@ -1,4 +1,4 @@
-# User Hive 3 UDFs with Scala
+# Hive 3 UDFs with Scala
 
 
 ## Author
